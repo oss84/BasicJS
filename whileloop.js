@@ -1,4 +1,4 @@
-console.log("print all number between -10 and 19");
+console.log("print all numbers between -10 and 19");
 
 var num = -10;
 
